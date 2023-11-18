@@ -7,9 +7,6 @@ uuid生成：https://1024tools.com/uuid
 
 免费域名注册：https://www.dynadot.com/register-your-free-link-domain
 
-付费域名注册：www.namesilo.com（付费域名注册和解析点击查看这个视频>>跳转到4分17秒处）
-
-workers win专用ip优选：下载地址>>
 
 ip查看：https://whatismyipaddress.com/
 
@@ -37,14 +34,10 @@ Custom Domains查看——添加自定义域——填1个二级域名
 
 MAC:
 
-v2rayu: 下载链接>>
+
 
 cloudflarest ip优化：
-mac inter :下载地址>>
 
-mac arm :下载地址>>
-
-cloudflarest ip段：下载地址>>
 
 备注：需要自行下载上方CDN IP段否则只能延迟测速。
 
